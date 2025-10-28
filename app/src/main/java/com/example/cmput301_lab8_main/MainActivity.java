@@ -1,4 +1,4 @@
-package com.example.lab8;
+package com.example.cmput301_lab8_main;
 
 import androidx.appcompat.app.AppCompatActivity;
 

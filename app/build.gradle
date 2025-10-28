@@ -3,6 +3,8 @@ plugins {
 }
 
 android {
+    namespace = "com.example.cmput301_lab8_main"
+
     compileSdk 32
 
     defaultConfig {
