@@ -5,12 +5,12 @@ plugins {
 android {
     namespace = "com.example.cmput301_lab8_main"
 
-    compileSdk 36
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.lab8"
         minSdk 21
-        targetSdk 36
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
